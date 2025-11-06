@@ -1,5 +1,7 @@
 # REI Music Player
 
+![image8](./image8.png) ![image9](./image9.png)
+
 Pixel-art desktop music player inspired by Rei Ayanami from *Neon Genesis Evangelion*. The interface uses a pastel blue palette, animated light/dark themes, and custom sprite work to keep playback controls cute and cozy.
 
 ## Features
