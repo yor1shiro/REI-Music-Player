@@ -13,7 +13,7 @@ Pixel-art desktop music player inspired by Rei Ayanami from *Neon Genesis Evange
 
 ## Project Layout
 ```
-miffymusic/
+REI-Music-Player/
 ├─ REI_music_player.py   # Main application entry point
 ├─ assets/               # UI icons (play/pause, arrows, volume)
 ├─ deco/                 # Pixel art for scene + slider decorations
